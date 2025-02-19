@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Сайт 52</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #522f2a;
+      color: #333;
+    }
+
+    header {
+      background-color: #422622;
+      color: #fff;
+      padding: 1em;
+      text-align: center;
+    }
+
+    nav {
+      background-color: #eee;
+      padding: 0.5em;
+      text-align: center;
+    }
+
+    nav a {
+      padding: 0.5em 1em;
+      text-decoration: none;
+      color: #422622;
+      font-weight: bold;
+    }
+
+    nav a:hover {
+      background-color: #ddd;
+    }
+
+    main {
+      padding: 1em;
+      margin: 1em;
+      background-color: #333;
+      border-radius: 5px;
+    }
+
+    footer {
+      background-color: #333;
+      color: #fff;
+      text-align: center;
+      padding: 1em;
+      position: fixed;
+      bottom: 0;
+      width: 100%;
+    }
+    h1 {
+      font-weight: bold;
+      color: #0d0200;
+    }
+    p {
+     color: #ffffff
+    }
+  </style>
+</head>
+<body>
+
+<body>
+  <header>
+    <main>
+      <h1>Обо мне</h1>
+  <nav>
+    <a href="">Главная</a>
+    <a href="">Обо мне</a>
+    <a href="#">Услуги</a>
+    <a href="#">Контакты</a>
+  </nav>
+      <p>Я провожу экскурсии по Питеру и приглашаю на концерт "52", все приходите, оторвёмся</p>
+      <img src="https://yastatic.net/naydex/yandex-search/tq1HR6321/b6bec5A54ZW/nhQuGYGGCbzBS2arc0ANHjTsV7csEO5XT1rUX0J5KUOq5PeHTSt8vw2S-i2mk8ec1o-3AlgMFlJOTYyOBqHSRQpHPQtTQJ4pUMyzqXOBTZljvJPwOpH5Ed_N1huV--qB6iu5WxAjpSGADKYxuwAHStba8AfI3QxJA" alt="Я">
+      <p>Если что, это я</p>
+    </main>
+  </header>
+</body>
+</html>
